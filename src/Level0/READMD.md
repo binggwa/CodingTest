@@ -1,0 +1,17 @@
+# programmers 코딩 테스트 Level 0
+### 문항별 링크
+- [1번 문제 : 문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207)
+- [2번 문제 : 각도 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/340206)
+- [3번 문제 : 수 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/340205)
+- [4번 문제 : 병과분류](https://school.programmers.co.kr/learn/courses/30/lessons/340204)
+- [5번 문제 : 심폐소생술](https://school.programmers.co.kr/learn/courses/30/lessons/340203)
+- [6번 문제 : 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202)
+- [7번 문제 : 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201)
+- [8번 문제 : 닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200)
+- [9번 문제 : 저축](https://school.programmers.co.kr/learn/courses/30/lessons/250130)
+- [10번 문제 : 산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129)
+- [11번 문제 : 가채점](https://school.programmers.co.kr/learn/courses/30/lessons/250128)
+- [12번 문제 : 가습기](https://school.programmers.co.kr/learn/courses/30/lessons/250127)
+- [13번 문제 : 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126)
+- [14번 문제 : 문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952#)
+- [15번 문제 : 대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)
